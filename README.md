@@ -6,4 +6,4 @@ The SUstainable Material Management Extreme Events Reconnaissance (SUMMEER) rese
 
 SUMMEER is funded by the United States National Science Foundation (NSF) (Grant #2014330).
 
-For more information, visit our [website](https://summeer-network.github.io/)
+For more information, visit our [website](https://summeer-network.github.io/).
